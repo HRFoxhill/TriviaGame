@@ -1,0 +1,50 @@
+body {
+    background-image: url("../images/Genie.gif");
+}
+
+.jumbotron {
+    background-color: inherit; 
+    /* height: 300px; */
+}
+
+.hero-unit {
+color : White;
+background-color: inherit;
+/* float: top; */
+}
+
+.panel {
+    background-color:inherit;
+}
+
+#question {
+    color: white;
+    text-align: center;
+}
+
+/* #selection {
+    float: right;
+} */
+
+#buttons {
+    float: left;
+}
+
+#timer {
+    color: white;
+    float: center;
+}
+
+#toprow {
+    text-align: center;
+}
+
+
+#startGame {
+    text-align: right;
+    float: center;
+}
+
+#clue {
+    float: right;
+}
